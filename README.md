@@ -1,3 +1,3 @@
 # KatrinaBarth-BME547ci
 
-#This respository contains a function to detect a record of trachycardia in patient medical history. The repository also contains unit tests to verify the function and style of the function.
+This respository contains a function to detect the presence of trachycardic in an input string. The repository also contains unit tests to verify the detection of tachycardic if entered with capital letters, punctuation, spaces, and a few mispellings.
